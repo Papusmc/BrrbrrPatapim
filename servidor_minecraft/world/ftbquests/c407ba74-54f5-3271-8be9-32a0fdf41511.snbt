@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c407ba7454f532718be932a0fdf41511"
+	name: "Stephan1705#c407ba74"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
