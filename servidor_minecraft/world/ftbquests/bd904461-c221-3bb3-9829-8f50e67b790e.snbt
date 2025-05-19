@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "bd904461c2213bb398298f50e67b790e"
+	name: "skaterJC420#bd904461"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

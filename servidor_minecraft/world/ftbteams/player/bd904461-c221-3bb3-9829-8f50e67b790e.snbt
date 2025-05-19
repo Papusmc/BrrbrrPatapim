@@ -1,0 +1,17 @@
+{
+	id: "bd904461-c221-3bb3-9829-8f50e67b790e"
+	type: "player"
+	player_name: "skaterJC420"
+	ranks: {
+		bd904461-c221-3bb3-9829-8f50e67b790e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "skaterJC420"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF599A"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
