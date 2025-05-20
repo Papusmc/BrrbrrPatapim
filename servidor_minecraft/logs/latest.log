@@ -2537,3 +2537,5 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20May2025 17:06:37.195] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
 [20May2025 17:06:37.196] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
 [20May2025 17:07:52.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [Stay dead]
+[20May2025 17:11:37.244] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[20May2025 17:11:37.244] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}

@@ -258,6 +258,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-05-19 23:51:18 +0000",
+      "minecraft:dripstone_caves": "2025-05-20 17:09:14 +0000",
       "minecraft:forest": "2025-05-19 23:59:51 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-20 00:54:16 +0000",
       "minecraft:savanna": "2025-05-19 23:52:38 +0000",
@@ -2095,7 +2096,8 @@
       "cooked_mutton": "2025-05-20 00:01:19 +0000",
       "apple": "2025-05-20 00:17:16 +0000",
       "bread": "2025-05-20 00:51:58 +0000",
-      "rotten_flesh": "2025-05-20 00:51:24 +0000"
+      "rotten_flesh": "2025-05-20 00:51:24 +0000",
+      "cooked_salmon": "2025-05-20 17:11:22 +0000"
     },
     "done": false
   },
@@ -3484,9 +3486,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_pillar_add_to_candle": {
     "criteria": {
       "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/barrel_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:13:13 +0000"
     },
     "done": true
   },
@@ -3499,6 +3519,18 @@
   "minecraft:recipes/woodcutting/birch/stripped_birch_log_from_birch_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_button_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-05-20 17:11:55 +0000"
     },
     "done": true
   },
@@ -3520,15 +3552,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/impaling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_fence_gate": {
     "criteria": {
       "has_maple_planks": "2025-05-20 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_stairs_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
     },
     "done": true
   },
@@ -3544,6 +3600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/salmon": {
     "criteria": {
       "has_salmon": "2025-05-20 17:01:20 +0000"
@@ -3556,6 +3618,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/raw_aluminum_to_raw_block_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2025-05-20 17:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-05-20 17:03:40 +0000"
@@ -3565,6 +3633,12 @@
   "regions_unexplored:recipes/redstone/maple_button": {
     "criteria": {
       "has_maple_planks": "2025-05-20 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:13:13 +0000"
     },
     "done": true
   },
@@ -3586,6 +3660,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-20 17:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_stairs_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_moss_carpet": {
+    "criteria": {
+      "has_moss_carpet": "2025-05-20 17:07:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-05-20 17:14:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_connected_add_to_candle": {
     "criteria": {
       "has_candle": "2025-05-20 17:02:19 +0000"
@@ -3604,6 +3708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_slab_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-05-20 17:01:19 +0000"
@@ -3616,9 +3726,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_tall_flowers": {
+    "criteria": {
+      "has_tall_flowers": "2025-05-20 17:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_slab_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/barrel_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-05-20 17:13:16 +0000"
     },
     "done": true
   },
@@ -3634,9 +3774,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_item": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/riptide_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:13:13 +0000"
     },
     "done": true
   },
@@ -3652,15 +3810,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-20 17:10:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_sign_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/add_to_candle/add_to_candle/birch_planks_add_to_candle": {
     "criteria": {
       "has_candle": "2025-05-20 17:02:19 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-20 17:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-20 17:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_trapdoor_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
     },
     "done": true
   },
@@ -3673,6 +3855,30 @@
   "betterend:recipes/building_blocks/end_lotus_bookshelf": {
     "criteria": {
       "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/crafting_table_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:13:13 +0000"
     },
     "done": true
   },
@@ -3694,6 +3900,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/pointed_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-20 17:09:30 +0000"
+    },
+    "done": true
+  },
   "ancient_manuscripts:items/acacia_binding_table": {
     "criteria": {
       "has_items": "2025-05-20 17:03:40 +0000"
@@ -3703,6 +3915,12 @@
   "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_layered_add_to_candle": {
     "criteria": {
       "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:13:13 +0000"
     },
     "done": true
   },
@@ -3724,6 +3942,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-05-20 17:07:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/knockback_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
@@ -3739,6 +3963,12 @@
   "betterend:recipes/building_blocks/lacugrove_bookshelf": {
     "criteria": {
       "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_trapdoor_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
     },
     "done": true
   },
@@ -3760,6 +3990,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_stripped_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:12:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_button_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-05-20 17:03:40 +0000"
@@ -3778,9 +4020,27 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-05-20 17:14:23 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-05-20 17:14:23 +0000"
+    },
+    "done": true
+  },
   "ancient_manuscripts:items/birch_binding_table": {
     "criteria": {
       "has_items": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
     },
     "done": true
   },
@@ -3796,9 +4056,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_door_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-20 17:11:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/add_to_candle/add_to_candle/acacia_planks_add_to_candle": {
     "criteria": {
       "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-05-20 17:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
     },
     "done": true
   },
@@ -3811,6 +4095,12 @@
   "betterend:recipes/misc/infinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:13:13 +0000"
     },
     "done": true
   },
@@ -3832,9 +4122,27 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-05-20 17:14:23 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/feather_falling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
     },
     "done": true
   },
@@ -3847,6 +4155,12 @@
   "ancient_manuscripts:items/jungle_binding_table": {
     "criteria": {
       "has_items": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
     },
     "done": true
   },
@@ -3868,15 +4182,39 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/coarse_dirt": {
+    "criteria": {
+      "has_coarse_dirt": "2025-05-20 17:11:49 +0000"
+    },
+    "done": true
+  },
   "ancient_manuscripts:items/mangrove_binding_table": {
     "criteria": {
       "has_items": "2025-05-20 17:03:40 +0000"
     },
     "done": true
   },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-05-20 17:14:23 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-05-20 17:14:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-05-20 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_gate_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
     },
     "done": true
   },
@@ -3892,9 +4230,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/digesting/nutrient_paste_from_cake": {
     "criteria": {
       "has_cake": "2025-05-20 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:13:13 +0000"
     },
     "done": true
   },
@@ -3922,6 +4278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-20 17:12:17 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/helix_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-05-20 17:03:40 +0000"
@@ -3937,6 +4299,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
     },
     "done": true
   },
@@ -3970,6 +4338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweeping_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
@@ -3982,6 +4356,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_chest_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-05-20 17:14:23 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/ocelot": {
     "criteria": {
       "has_cod": "2025-05-20 17:01:19 +0000"
@@ -3991,6 +4377,18 @@
   "betterend:recipes/misc/soul_speed_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:13:13 +0000"
     },
     "done": true
   },
@@ -4012,9 +4410,27 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-05-20 17:14:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:06:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-05-20 17:13:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-05-20 17:14:23 +0000"
     },
     "done": true
   },
@@ -4090,9 +4506,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pressure_plate_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/lure_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_pressure_plate_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-05-20 17:09:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-05-20 17:14:23 +0000"
     },
     "done": true
   },
@@ -4111,6 +4557,18 @@
   "betterend:recipes/misc/power_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_door_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-20 17:10:24 +0000"
     },
     "done": true
   },
@@ -4150,15 +4608,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-05-20 17:01:19 +0000"
     },
     "done": true
   },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-05-20 17:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_gate_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
+    "criteria": {
+      "has_raw_block_aluminum": "2025-05-20 17:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/add_to_candle/add_to_candle/oak_planks_add_to_candle": {
     "criteria": {
       "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_sign_from_polished_witch_hazel_layered_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:16:19 +0000"
     },
     "done": true
   },
@@ -4171,6 +4659,12 @@
   "betterend:recipes/misc/multishot_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-20 17:10:24 +0000"
     },
     "done": true
   },
