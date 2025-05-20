@@ -267,6 +267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-20 00:50:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_blue": {
     "criteria": {
       "has_iron_ingot": "2025-05-20 00:03:01 +0000"
@@ -336,6 +342,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-05-19 23:52:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-20 00:46:35 +0000"
     },
     "done": true
   },
@@ -746,6 +758,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-05-20 00:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-05-20 00:03:01 +0000"
@@ -755,6 +773,12 @@
   "immersiveengineering:recipes/misc/crafting/shield": {
     "criteria": {
       "has_shield": "2025-05-20 00:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-20 00:46:35 +0000"
     },
     "done": true
   },
@@ -842,6 +866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-20 00:46:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-20 00:03:01 +0000"
@@ -869,6 +899,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-20 00:30:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-05-20 00:48:15 +0000"
     },
     "done": true
   },
@@ -1052,6 +1088,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-05-20 00:50:11 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/coil_mv": {
     "criteria": {
       "has_iron_ingot": "2025-05-20 00:03:01 +0000"
@@ -1229,6 +1271,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-19 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-20 00:46:35 +0000"
     },
     "done": true
   },
@@ -1535,6 +1583,12 @@
   "regions_unexplored:recipes/building_blocks/red_painted_planks": {
     "criteria": {
       "has_planks": "2025-05-19 23:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-20 00:50:11 +0000"
     },
     "done": true
   },
@@ -1847,6 +1901,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-05-20 00:03:01 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-05-20 00:49:41 +0000"
     },
     "done": true
   },
@@ -2633,6 +2693,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-19 23:52:44 +0000"
+    },
+    "done": true
+  },
+  "ancient_manuscripts:items/enchanted_book_glue": {
+    "criteria": {
+      "has_items": "2025-05-20 00:50:11 +0000"
     },
     "done": true
   },

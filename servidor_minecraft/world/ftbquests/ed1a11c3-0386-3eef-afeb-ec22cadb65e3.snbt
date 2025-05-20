@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "ed1a11c303863eefafebec22cadb65e3"
+	name: "William_Aftom#ed1a11c3"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
