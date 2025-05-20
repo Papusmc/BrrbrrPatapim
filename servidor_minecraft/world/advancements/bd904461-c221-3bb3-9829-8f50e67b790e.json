@@ -3492,6 +3492,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-20 17:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-05-20 17:13:13 +0000"
@@ -3501,6 +3507,12 @@
   "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_pillar_add_to_candle": {
     "criteria": {
       "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-20 17:45:14 +0000"
     },
     "done": true
   },
@@ -3537,6 +3549,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_button_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-05-20 17:39:28 +0000"
     },
     "done": true
   },
@@ -3615,6 +3633,18 @@
   "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-05-20 17:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:45:14 +0000"
     },
     "done": true
   },
@@ -3756,6 +3786,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/rooted_dirt": {
+    "criteria": {
+      "has_rooted_dirt": "2025-05-20 17:42:29 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_hanging_sign": {
     "criteria": {
       "has_chain": "2025-05-20 17:14:23 +0000"
@@ -3798,6 +3834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-20 17:37:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-05-20 17:13:13 +0000"
@@ -3813,6 +3855,12 @@
   "biomancy:recipes/biomancy/digesting/nutrient_paste_from_tall_flowers": {
     "criteria": {
       "has_tall_flowers": "2025-05-20 17:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/stripped_jungle_log_from_jungle_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:45:14 +0000"
     },
     "done": true
   },
@@ -4056,6 +4104,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
+    "criteria": {
+      "has_log": "2025-05-20 17:45:14 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/manual": {
     "criteria": {
       "has_book": "2025-05-20 17:03:40 +0000"
@@ -4071,6 +4125,12 @@
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "skeleton_creeper": "2025-05-20 17:07:52 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-05-20 17:37:25 +0000"
     },
     "done": true
   },
@@ -4155,6 +4215,12 @@
   "betterend:recipes/misc/mending_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-05-20 17:44:39 +0000"
     },
     "done": true
   },
@@ -4365,6 +4431,12 @@
   "betterend:recipes/building_blocks/tenanea_bookshelf": {
     "criteria": {
       "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-05-20 17:37:25 +0000"
     },
     "done": true
   },
@@ -4740,6 +4812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:45:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/flame_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
@@ -4953,6 +5031,12 @@
   "minecraft:recipes/add_to_candle/add_to_candle/oak_planks_add_to_candle": {
     "criteria": {
       "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-20 17:37:25 +0000"
     },
     "done": true
   },
