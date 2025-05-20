@@ -3454,5 +3454,725 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/luck_of_sea_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quick_charge_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/willow_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-20 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/witch_hazel_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_pillar_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_maple_planks": "2025-05-20 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/stripped_birch_log_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-20 17:01:19 +0000"
+    },
+    "done": true
+  },
+  "ancient_manuscripts:items/crimson_binding_table": {
+    "criteria": {
+      "has_items": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/piercing_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/impaling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_maple_planks": "2025-05-20 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/swift_sneak_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "ancient_manuscripts:items/spruce_binding_table": {
+    "criteria": {
+      "has_items": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-20 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "ancient_manuscripts:items/dark_oak_binding_table": {
+    "criteria": {
+      "has_items": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_maple_planks": "2025-05-20 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-20 17:06:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/guide_book": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_maple_planks": "2025-05-20 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_layered_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-20 17:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "ancient_manuscripts:items/bamboo_binding_table": {
+    "criteria": {
+      "has_items": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/channeling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/riptide_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_shrub": {
+    "criteria": {
+      "has_birch_sapling": "2025-05-20 17:06:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/dragon_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/birch_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-20 17:06:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/pythadendron_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/end_lotus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-20 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/frost_walker_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/mahogany_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "ancient_manuscripts:items/acacia_binding_table": {
+    "criteria": {
+      "has_items": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_layered_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/mossy_glowshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/manual": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "ancient_manuscripts:items/cherry_binding_table": {
+    "criteria": {
+      "has_items": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/knockback_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-20 17:03:45 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lacugrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sharpness_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fortune_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_maple_planks": "2025-05-20 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/mending_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_maple_planks": "2025-05-20 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "ancient_manuscripts:items/birch_binding_table": {
+    "criteria": {
+      "has_items": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/punch_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lucernia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/acacia_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-20 17:01:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infinity_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/cake": {
+    "criteria": {
+      "has_cake": "2025-05-20 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_maple_planks": "2025-05-20 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/feather_falling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aqua_affinity_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "ancient_manuscripts:items/jungle_binding_table": {
+    "criteria": {
+      "has_items": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fire_aspect_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/tenanea_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/witch_hazel_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "ancient_manuscripts:items/mangrove_binding_table": {
+    "criteria": {
+      "has_items": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-20 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/mahogany_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/efficiency_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_cake": {
+    "criteria": {
+      "has_cake": "2025-05-20 17:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_maple_planks": "2025-05-20 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_witch_hazel_layered_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/projectile_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/helix_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fire_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/cod": {
+    "criteria": {
+      "has_cod": "2025-05-20 17:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/jungle_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_maple_planks": "2025-05-20 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/spruce_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "ancient_manuscripts:items/warped_binding_table": {
+    "criteria": {
+      "has_items": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweeping_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/respiration_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-05-20 17:01:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/soul_speed_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blast_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/looting_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/depth_strider_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:06:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/bane_of_arthropods_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_maple": {
+    "criteria": {
+      "has_item": "2025-05-20 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/unbreaking_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-20 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/loyalty_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flame_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/birch_branch_from_birch_log": {
+    "criteria": {
+      "has_log": "2025-05-20 17:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_pillar_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thorns_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/willow_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/lure_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_sapling": "2025-05-20 16:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-20 17:01:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/power_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_witch_hazel_pillar_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_witch_hazel_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/smite_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/dark_oak_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_witch_hazel_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-20 17:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/oak_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/silk_touch_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/multishot_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

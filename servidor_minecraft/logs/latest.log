@@ -2531,3 +2531,9 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20May2025 16:58:18.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 was slain by Zombie
 [20May2025 16:58:41.945] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1223, y=70, z=-894} but found not block entity block Block{born_in_chaos_v1:marigolds} at location
 [20May2025 16:58:41.945] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{born_in_chaos_v1:marigolds} but failed at location BlockPos{x=-1223, y=70, z=-894}
+[20May2025 17:00:38.298] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[20May2025 17:00:56.797] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[20May2025 17:00:56.798] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[20May2025 17:06:37.195] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[20May2025 17:06:37.196] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[20May2025 17:07:52.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [Stay dead]
