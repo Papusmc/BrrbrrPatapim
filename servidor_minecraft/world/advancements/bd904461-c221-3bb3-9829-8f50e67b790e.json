@@ -3471,6 +3471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-20 18:18:59 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-05-20 18:15:09 +0000"
@@ -3552,6 +3558,12 @@
   "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
     "criteria": {
       "has_sand": "2025-05-20 18:07:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-05-20 18:23:15 +0000"
     },
     "done": true
   },
@@ -3759,6 +3771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-20 18:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_stairs_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:16:19 +0000"
@@ -3852,6 +3870,12 @@
   "regions_unexplored:recipes/redstone/maple_button": {
     "criteria": {
       "has_maple_planks": "2025-05-20 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-05-20 18:23:15 +0000"
     },
     "done": true
   },
@@ -4011,6 +4035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-20 18:18:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/stripped_jungle_log_from_jungle_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:45:14 +0000"
@@ -4044,6 +4074,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_slab_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-05-20 18:23:15 +0000"
     },
     "done": true
   },
@@ -4083,6 +4119,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-05-20 18:18:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/riptide_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
@@ -4092,6 +4134,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-20 18:23:15 +0000"
     },
     "done": true
   },
@@ -4110,6 +4158,12 @@
   "regions_unexplored:recipes/decorations/birch_shrub": {
     "criteria": {
       "has_birch_sapling": "2025-05-20 17:06:11 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/leather": {
+    "criteria": {
+      "has_leather": "2025-05-20 18:18:59 +0000"
     },
     "done": true
   },
@@ -4248,6 +4302,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-20 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-20 18:18:59 +0000"
     },
     "done": true
   },
@@ -4434,6 +4494,12 @@
   "regions_unexplored:recipes/building_blocks/maple_stairs": {
     "criteria": {
       "has_maple_planks": "2025-05-20 17:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-20 18:18:59 +0000"
     },
     "done": true
   },
@@ -4656,6 +4722,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-20 18:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-20 18:18:59 +0000"
     },
     "done": true
   },
@@ -4887,6 +4959,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-05-20 18:18:59 +0000"
+    },
+    "done": true
+  },
   "ancient_manuscripts:items/mangrove_binding_table": {
     "criteria": {
       "has_items": "2025-05-20 17:03:40 +0000"
@@ -4977,6 +5055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-20 18:23:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/add_to_candle/add_to_candle/polished_witch_hazel_layered_add_to_candle": {
     "criteria": {
       "has_candle": "2025-05-20 17:02:19 +0000"
@@ -5037,9 +5121,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-20 18:23:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
+    "criteria": {
+      "has_leather": "2025-05-20 18:18:59 +0000"
     },
     "done": true
   },
@@ -5076,6 +5172,12 @@
   "immersiveengineering:recipes/misc/crafting/blueprint_components": {
     "criteria": {
       "has_paper": "2025-05-20 17:56:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-05-20 18:18:59 +0000"
     },
     "done": true
   },
@@ -5349,9 +5451,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/powerpack": {
+    "criteria": {
+      "has_leather": "2025-05-20 18:18:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thorns_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-05-20 18:18:59 +0000"
     },
     "done": true
   },
@@ -5526,6 +5640,12 @@
   "biomancy:recipes/biomancy/decomposing/diamond": {
     "criteria": {
       "has_diamond": "2025-05-20 18:03:11 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_leather": {
+    "criteria": {
+      "has_leather": "2025-05-20 18:18:59 +0000"
     },
     "done": true
   },
