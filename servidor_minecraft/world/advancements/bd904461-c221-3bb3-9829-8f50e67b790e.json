@@ -5925,7 +5925,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "potato": "2025-05-20 18:29:57 +0000"
+      "potato": "2025-05-20 18:29:57 +0000",
+      "nether_wart": "2025-05-20 20:57:51 +0000"
     },
     "done": false
   },
@@ -6202,6 +6203,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-05-20 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-05-20 20:57:51 +0000"
     },
     "done": true
   },

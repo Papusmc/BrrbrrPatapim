@@ -2544,3 +2544,9 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20May2025 20:53:03.187] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f709c21a-9e85-3542-a340-70e0e24177e5
 [20May2025 20:53:03.189] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Papa-TUMVERGUM
 [20May2025 20:57:51.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [A Seedy Place]
+[20May2025 21:08:03.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papa-TUMVERGUM[/127.18.50.208:53285] logged in with entity id 9864 at (-275.20955166166533, 63.0, 94.02458380760784)
+[20May2025 21:08:03.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papa-TUMVERGUM joined the game
+[20May2025 21:08:03.821] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f709c21a-9e85-3542-a340-70e0e24177e5
+[20May2025 21:08:03.839] [Server thread/INFO] [Jade/]: Syncing config to Papa-TUMVERGUM (f709c21a-9e85-3542-a340-70e0e24177e5)
+[20May2025 21:08:04.020] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Papa-TUMVERGUM (18)
+[20May2025 21:08:04.021] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Papa-TUMVERGUM
