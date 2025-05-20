@@ -2562,3 +2562,29 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20May2025 18:50:44.440] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
 [20May2025 18:52:49.539] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
 [20May2025 18:58:41.939] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20May2025 19:06:43.190] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20May2025 19:06:53.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skaterJC420 lost connection: Disconnected
+[20May2025 19:06:53.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 left the game
+[20May2025 19:06:53.449] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for bd904461-c221-3bb3-9829-8f50e67b790e
+[20May2025 19:06:53.451] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client skaterJC420
+[20May2025 19:07:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20May2025 19:07:16.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20May2025 19:07:16.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20May2025 19:07:16.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20May2025 19:07:16.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20May2025 19:07:17.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20May2025 19:07:17.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[20May2025 19:07:17.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[20May2025 19:07:17.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[20May2025 19:07:17.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[20May2025 19:07:17.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20May2025 19:07:17.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20May2025 19:07:17.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20May2025 19:07:17.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[20May2025 19:07:17.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[20May2025 19:07:17.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[20May2025 19:07:17.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[20May2025 19:07:17.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20May2025 19:07:17.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20May2025 19:07:17.456] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[20May2025 19:07:17.467] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
