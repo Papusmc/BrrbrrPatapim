@@ -67,3 +67,25 @@
 [20May2025 01:04:11.906] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of William_Aftom (18)
 [20May2025 01:04:11.906] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to William_Aftom
 [20May2025 01:04:19.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was slain by Drowned
+[20May2025 01:05:25.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was slain by Corpse Fish
+[20May2025 01:07:14.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was slain by Fallen Chaos Knight
+[20May2025 01:07:57.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was slain by Drowned
+[20May2025 01:08:20.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was impaled by Drowned
+[20May2025 01:08:47.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was slain by Drowned
+[20May2025 01:09:10.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was impaled by Drowned
+[20May2025 01:09:25.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was impaled by Drowned
+[20May2025 01:09:50.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was impaled by Drowned
+[20May2025 01:10:09.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was impaled by Drowned
+[20May2025 01:10:27.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was impaled by Drowned
+[20May2025 01:10:48.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was impaled by Drowned
+[20May2025 01:11:01.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was slain by Corpse Fish
+[20May2025 01:11:23.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom has made the advancement [Double Trouble]
+[20May2025 01:11:24.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was blown up by Phantom Creeper
+[20May2025 01:11:47.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 was slain by Freddy Krueger
+[20May2025 01:11:47.728] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for skaterJC420 with unique ID travelersbackpack.redstone_20.05.2025-01.11.47.dat
+[20May2025 01:12:32.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom was slain by Zombie
+[20May2025 01:12:41.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: William_Aftom lost connection: Disconnected
+[20May2025 01:12:41.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: William_Aftom left the game
+[20May2025 01:12:41.832] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for ed1a11c3-0386-3eef-afeb-ec22cadb65e3
+[20May2025 01:12:41.832] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client William_Aftom
+[20May2025 01:13:03.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 was slain by Zombie
