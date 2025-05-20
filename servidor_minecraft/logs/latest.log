@@ -2550,3 +2550,18 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20May2025 21:08:03.839] [Server thread/INFO] [Jade/]: Syncing config to Papa-TUMVERGUM (f709c21a-9e85-3542-a340-70e0e24177e5)
 [20May2025 21:08:04.020] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Papa-TUMVERGUM (18)
 [20May2025 21:08:04.021] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Papa-TUMVERGUM
+[20May2025 21:09:59.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papa-TUMVERGUM lost connection: Disconnected
+[20May2025 21:09:59.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papa-TUMVERGUM left the game
+[20May2025 21:09:59.067] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f709c21a-9e85-3542-a340-70e0e24177e5
+[20May2025 21:09:59.068] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Papa-TUMVERGUM
+[20May2025 21:15:01.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-995, y=72, z=-1010} BlockPos{x=-997, y=71, z=-1011}
+[20May2025 21:15:01.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-995, y=72, z=-1010} BlockPos{x=-997, y=71, z=-1011}
+[20May2025 21:15:02.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998, y=72, z=-1009} BlockPos{x=-999, y=71, z=-1012}
+[20May2025 21:15:02.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998, y=72, z=-1009} BlockPos{x=-999, y=71, z=-1012}
+[20May2025 21:15:15.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-997, y=73, z=-1010} BlockPos{x=-996, y=71, z=-1009}
+[20May2025 21:15:15.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-997, y=73, z=-1010} BlockPos{x=-996, y=71, z=-1009}
+[20May2025 21:15:15.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-997, y=73, z=-1011} BlockPos{x=-996, y=71, z=-1009}
+[20May2025 21:15:15.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-997, y=73, z=-1011} BlockPos{x=-996, y=71, z=-1009}
+[20May2025 21:15:15.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998, y=73, z=-1012} BlockPos{x=-996, y=71, z=-1009}
+[20May2025 21:15:15.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998, y=73, z=-1012} BlockPos{x=-996, y=71, z=-1009}
+[20May2025 21:15:15.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998, y=73, z=-1012} BlockPos{x=-996, y=71, z=-1009}
