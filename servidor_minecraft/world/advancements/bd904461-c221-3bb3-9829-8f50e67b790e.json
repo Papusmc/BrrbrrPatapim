@@ -2095,6 +2095,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-05-20 00:01:19 +0000",
+      "baked_potato": "2025-05-20 18:40:03 +0000",
       "apple": "2025-05-20 00:17:16 +0000",
       "cooked_cod": "2025-05-20 17:50:36 +0000",
       "bread": "2025-05-20 00:51:58 +0000",
@@ -3555,6 +3556,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-20 18:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-05-20 17:45:14 +0000"
@@ -3591,6 +3598,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-20 18:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-20 18:07:55 +0000"
@@ -3624,6 +3637,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2025-05-20 17:39:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-05-20 18:40:01 +0000"
     },
     "done": true
   },
@@ -3939,9 +3958,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/poisonous_potato": {
+    "criteria": {
+      "has_poisonous_potato": "2025-05-20 18:38:51 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/guide_book": {
     "criteria": {
       "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 18:37:42 +0000"
     },
     "done": true
   },
@@ -4062,6 +4093,12 @@
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 18:37:42 +0000"
     },
     "done": true
   },
@@ -5277,6 +5314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/stripped_witch_hazel_log_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 18:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:16:19 +0000"
@@ -5316,6 +5359,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-20 18:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 18:37:42 +0000"
     },
     "done": true
   },
@@ -5553,6 +5602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 18:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-05-20 18:16:08 +0000"
@@ -5604,6 +5659,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-05-20 18:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 18:37:42 +0000"
     },
     "done": true
   },
@@ -5739,6 +5800,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-05-20 18:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-20 18:07:55 +0000"
@@ -5778,6 +5845,12 @@
   "biomancy:recipes/biomancy/decomposing/forge_leather": {
     "criteria": {
       "has_leather": "2025-05-20 18:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 18:37:42 +0000"
     },
     "done": true
   },
