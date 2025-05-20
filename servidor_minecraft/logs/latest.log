@@ -2545,3 +2545,8 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20May2025 17:48:02.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [Eye Spy]
 [20May2025 17:57:19.954] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1127, y=82, z=-1202} but found not block entity block Block{minecraft:air} at location
 [20May2025 17:57:19.954] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1127, y=82, z=-1202}
+[20May2025 18:02:12.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [Source of Evil]
+[20May2025 18:02:38.895] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1180, y=82, z=-1190} but found not block entity block Block{minecraft:air} at location
+[20May2025 18:02:38.895] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1180, y=82, z=-1190}
+[20May2025 18:03:11.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [Diamonds!]
+[20May2025 18:03:18.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [Cover Me with Diamonds]
