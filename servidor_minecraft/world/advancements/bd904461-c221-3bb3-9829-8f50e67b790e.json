@@ -3658,6 +3658,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/iron_nugget": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-20 18:52:58 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/potato": {
     "criteria": {
       "has_potato": "2025-05-20 18:02:46 +0000"
@@ -4750,6 +4756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-20 18:52:58 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
@@ -5263,6 +5275,12 @@
   "immersiveengineering:recipes/misc/crafting/conveyor_basic": {
     "criteria": {
       "has_leather": "2025-05-20 18:18:59 +0000"
+    },
+    "done": true
+  },
+  "sleepy_hollows:recipes/wrought_iron_fence": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-20 18:52:58 +0000"
     },
     "done": true
   },
@@ -5887,6 +5905,12 @@
   "minecraft:recipes/add_to_candle/add_to_candle/polished_witch_hazel_planks_add_to_candle": {
     "criteria": {
       "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-20 18:52:58 +0000"
     },
     "done": true
   },
