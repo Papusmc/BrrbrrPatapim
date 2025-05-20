@@ -261,6 +261,7 @@
       "minecraft:dripstone_caves": "2025-05-20 17:09:14 +0000",
       "minecraft:forest": "2025-05-19 23:59:51 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-20 00:54:16 +0000",
+      "minecraft:meadow": "2025-05-20 17:56:02 +0000",
       "minecraft:savanna": "2025-05-19 23:52:38 +0000",
       "minecraft:plains": "2025-05-19 23:55:45 +0000"
     },
@@ -2095,6 +2096,7 @@
     "criteria": {
       "cooked_mutton": "2025-05-20 00:01:19 +0000",
       "apple": "2025-05-20 00:17:16 +0000",
+      "cooked_cod": "2025-05-20 17:50:36 +0000",
       "bread": "2025-05-20 00:51:58 +0000",
       "rotten_flesh": "2025-05-20 00:51:24 +0000",
       "cooked_salmon": "2025-05-20 17:11:22 +0000"
@@ -3492,6 +3494,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/statue": {
+    "criteria": {
+      "has_smooth_stone_slab": "2025-05-20 17:50:07 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
       "has_bone_block": "2025-05-20 17:37:25 +0000"
@@ -3642,6 +3650,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-05-20 17:50:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:45:14 +0000"
@@ -3720,6 +3734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-20 17:48:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_button": {
     "criteria": {
       "has_maple_planks": "2025-05-20 17:04:57 +0000"
@@ -3789,6 +3809,12 @@
   "biomancy:recipes/biomancy/decomposing/rooted_dirt": {
     "criteria": {
       "has_rooted_dirt": "2025-05-20 17:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-20 17:48:01 +0000"
     },
     "done": true
   },
@@ -4086,6 +4112,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/skeleton_skull": {
+    "criteria": {
+      "has_skeleton_skull": "2025-05-20 17:50:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_layered_add_to_candle": {
     "criteria": {
       "has_candle": "2025-05-20 17:02:19 +0000"
@@ -4095,6 +4127,12 @@
   "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-05-20 17:50:07 +0000"
     },
     "done": true
   },
@@ -4125,6 +4163,12 @@
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "skeleton_creeper": "2025-05-20 17:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-05-20 17:48:02 +0000"
     },
     "done": true
   },
@@ -4176,6 +4220,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-05-20 17:47:07 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/skeleton_skull": {
+    "criteria": {
+      "has_skeleton_skull": "2025-05-20 17:50:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-20 17:19:51 +0000"
@@ -4185,6 +4241,12 @@
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-05-20 17:34:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-20 17:48:01 +0000"
     },
     "done": true
   },
@@ -4224,6 +4286,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-05-20 17:50:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/maple_trapdoor": {
     "criteria": {
       "has_maple_planks": "2025-05-20 17:04:57 +0000"
@@ -4245,6 +4313,12 @@
   "ancient_manuscripts:items/birch_binding_table": {
     "criteria": {
       "has_items": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-20 17:48:01 +0000"
     },
     "done": true
   },
@@ -4287,6 +4361,12 @@
   "minecraft:recipes/add_to_candle/add_to_candle/acacia_planks_add_to_candle": {
     "criteria": {
       "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-20 17:47:07 +0000"
     },
     "done": true
   },
@@ -4374,6 +4454,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/bio_forging/piglin_head": {
+    "criteria": {
+      "has_skeleton_skull": "2025-05-20 17:50:30 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/feather_falling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
@@ -4431,6 +4517,12 @@
   "betterend:recipes/building_blocks/tenanea_bookshelf": {
     "criteria": {
       "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-05-20 17:47:07 +0000"
     },
     "done": true
   },
@@ -4860,9 +4952,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-20 17:48:01 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
     "criteria": {
       "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/player_head": {
+    "criteria": {
+      "has_skeleton_skull": "2025-05-20 17:50:30 +0000"
     },
     "done": true
   },
@@ -5025,6 +5129,12 @@
   "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
     "criteria": {
       "has_raw_block_aluminum": "2025-05-20 17:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-20 17:48:01 +0000"
     },
     "done": true
   },
