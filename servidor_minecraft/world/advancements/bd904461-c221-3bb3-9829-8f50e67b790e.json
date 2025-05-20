@@ -71,6 +71,7 @@
       "autumnal_maple_forest": "2025-05-20 00:56:40 +0000",
       "muddy_river": "2025-05-20 00:56:06 +0000",
       "grassy_beach": "2025-05-19 23:04:24 +0000",
+      "highland_fields": "2025-05-20 20:41:34 +0000",
       "maple_forest": "2025-05-20 00:56:13 +0000",
       "deciduous_forest": "2025-05-19 23:51:23 +0000",
       "temperate_grove": "2025-05-20 00:55:28 +0000",
@@ -85,6 +86,7 @@
       "autumnal_maple_forest": "2025-05-20 00:56:40 +0000",
       "muddy_river": "2025-05-20 00:56:06 +0000",
       "grassy_beach": "2025-05-19 23:04:24 +0000",
+      "highland_fields": "2025-05-20 20:41:34 +0000",
       "maple_forest": "2025-05-20 00:56:13 +0000",
       "deciduous_forest": "2025-05-19 23:51:23 +0000",
       "temperate_grove": "2025-05-20 00:55:28 +0000",
@@ -3342,7 +3344,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_stables": "2025-05-20 00:59:01 +0000"
+      "entered_stables": "2025-05-20 00:59:01 +0000",
+      "entered_ruined_building": "2025-05-20 20:47:36 +0000"
     },
     "done": false
   },
@@ -6019,6 +6022,216 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-05-20 18:52:58 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_jack_o_lantern": {
+    "criteria": {
+      "has_item": "2025-05-20 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-05-20 20:40:26 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_torch_from_fossil_fuel": {
+    "criteria": {
+      "has_item": "2025-05-20 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-05-20 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-20 20:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-20 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-20 20:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-20 20:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-20 20:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-20 20:42:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-05-20 20:42:48 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/nether_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-05-20 20:42:59 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-05-20 20:42:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2025-05-20 20:40:25 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_nether_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-05-20 20:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-20 20:40:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-20 20:40:04 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-05-20 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 20:40:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item2": "2025-05-20 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
+    "criteria": {
+      "has_item": "2025-05-20 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-20 20:42:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2025-05-20 20:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-20 20:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/stripped_spruce_log_from_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 20:40:25 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-05-20 20:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-20 20:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-20 20:40:04 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_candle": {
+    "criteria": {
+      "has_planks": "2025-05-20 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-20 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-20 20:42:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-05-20 20:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-20 20:42:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-05-20 20:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-20 20:42:48 +0000"
     },
     "done": true
   },

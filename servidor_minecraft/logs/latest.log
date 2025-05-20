@@ -2530,3 +2530,17 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20May2025 20:24:13.359] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to skaterJC420
 [20May2025 20:24:13.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7175ms or 143 ticks behind
 [20May2025 20:27:34.242] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20May2025 20:41:07.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4225, l='ServerLevel[world]', x=-684.50, y=35.00, z=-1144.50] died, message: 'Unemployed was killed'
+[20May2025 20:42:02.522] [Worker-Main-10/INFO] [ModernFix/]: Instantiating Mojang DFU
+[20May2025 20:42:37.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [Hot Stuff]
+[20May2025 20:52:28.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Papa-TUMVERGUM[/127.18.50.208:40351] logged in with entity id 7900 at (-281.5, 63.0, 86.5)
+[20May2025 20:52:28.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papa-TUMVERGUM joined the game
+[20May2025 20:52:28.296] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f709c21a-9e85-3542-a340-70e0e24177e5
+[20May2025 20:52:28.333] [Server thread/INFO] [Jade/]: Syncing config to Papa-TUMVERGUM (f709c21a-9e85-3542-a340-70e0e24177e5)
+[20May2025 20:52:30.156] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Papa-TUMVERGUM (18)
+[20May2025 20:52:30.157] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Papa-TUMVERGUM
+[20May2025 20:53:03.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Papa-TUMVERGUM lost connection: Disconnected
+[20May2025 20:53:03.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Papa-TUMVERGUM left the game
+[20May2025 20:53:03.187] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f709c21a-9e85-3542-a340-70e0e24177e5
+[20May2025 20:53:03.189] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Papa-TUMVERGUM
+[20May2025 20:57:51.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [A Seedy Place]

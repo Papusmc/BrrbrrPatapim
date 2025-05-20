@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "f709c21a9e853542a34070e0e24177e5"
+	name: "Papa_TUMVERGUM#f709c21a"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

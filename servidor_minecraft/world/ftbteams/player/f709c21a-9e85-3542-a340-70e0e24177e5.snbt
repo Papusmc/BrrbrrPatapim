@@ -1,0 +1,17 @@
+{
+	id: "f709c21a-9e85-3542-a340-70e0e24177e5"
+	type: "player"
+	player_name: "Papa-TUMVERGUM"
+	ranks: {
+		f709c21a-9e85-3542-a340-70e0e24177e5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Papa-TUMVERGUM"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFB059"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
