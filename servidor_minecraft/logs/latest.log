@@ -2550,3 +2550,10 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20May2025 18:02:38.895] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1180, y=82, z=-1190}
 [20May2025 18:03:11.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [Diamonds!]
 [20May2025 18:03:18.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [Cover Me with Diamonds]
+[20May2025 18:17:02.513] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-804, y=107, z=-1162} but found not block entity block Block{minecraft:air} at location
+[20May2025 18:17:02.513] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-804, y=107, z=-1162}
+[20May2025 18:17:03.374] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-930, y=86, z=-1255} but found not block entity block Block{minecraft:air} at location
+[20May2025 18:17:03.375] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-930, y=86, z=-1255}
+[20May2025 18:17:26.091] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20May2025 18:19:43.440] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20May2025 18:20:25.991] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
