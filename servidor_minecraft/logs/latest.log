@@ -2571,3 +2571,36 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20May2025 21:36:57.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 left the game
 [20May2025 21:36:57.652] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for bd904461-c221-3bb3-9829-8f50e67b790e
 [20May2025 21:36:57.652] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client skaterJC420
+[20May2025 21:48:28.362] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: skaterJC420[/127.216.102.17:36903] logged in with entity id 15012 at (-1081.699999988079, 3.0, -944.7935604801644)
+[20May2025 21:48:28.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 joined the game
+[20May2025 21:48:28.451] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for bd904461-c221-3bb3-9829-8f50e67b790e
+[20May2025 21:48:28.467] [Server thread/INFO] [Jade/]: Syncing config to skaterJC420 (bd904461-c221-3bb3-9829-8f50e67b790e)
+[20May2025 21:48:28.766] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of skaterJC420 (18)
+[20May2025 21:48:28.766] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to skaterJC420
+[20May2025 21:48:38.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 was slain by Cave Dweller
+[20May2025 21:48:38.159] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for skaterJC420 with unique ID travelersbackpack.standard_20.05.2025-21.48.38.dat
+[20May2025 21:49:27.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skaterJC420 lost connection: Disconnected
+[20May2025 21:49:27.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 left the game
+[20May2025 21:49:27.051] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for bd904461-c221-3bb3-9829-8f50e67b790e
+[20May2025 21:49:27.051] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client skaterJC420
+[20May2025 21:49:46.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20May2025 21:49:46.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20May2025 21:49:46.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20May2025 21:49:46.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20May2025 21:49:46.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20May2025 21:49:46.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:boiler_room_dimension
+[20May2025 21:49:46.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[20May2025 21:49:46.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20May2025 21:49:46.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:gaster_dimension
+[20May2025 21:49:46.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/boh:level_0
+[20May2025 21:49:46.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20May2025 21:49:47.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20May2025 21:49:47.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (boiler_room_dimension): All chunks are saved
+[20May2025 21:49:47.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[20May2025 21:49:47.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20May2025 21:49:47.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (gaster_dimension): All chunks are saved
+[20May2025 21:49:47.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (level_0): All chunks are saved
+[20May2025 21:49:47.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20May2025 21:49:47.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20May2025 21:49:47.128] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[20May2025 21:49:47.129] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
