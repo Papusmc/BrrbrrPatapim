@@ -3462,6 +3462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/quick_charge_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
@@ -3516,6 +3522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/stripped_birch_log_from_birch_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:06:11 +0000"
@@ -3540,6 +3552,24 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-20 17:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-05-20 17:19:51 +0000"
+    },
+    "done": true
+  },
   "ancient_manuscripts:items/crimson_binding_table": {
     "criteria": {
       "has_items": "2025-05-20 17:03:40 +0000"
@@ -3555,6 +3585,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:19:27 +0000"
     },
     "done": true
   },
@@ -3600,15 +3636,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:13:13 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_item": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/salmon": {
     "criteria": {
       "has_salmon": "2025-05-20 17:01:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_moss": {
+    "criteria": {
+      "has_moss_block": "2025-05-20 17:19:26 +0000"
     },
     "done": true
   },
@@ -3648,9 +3702,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/guide_book": {
     "criteria": {
       "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:19:27 +0000"
     },
     "done": true
   },
@@ -3744,6 +3810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_slab_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:16:19 +0000"
@@ -3759,6 +3831,12 @@
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-05-20 17:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:19:27 +0000"
     },
     "done": true
   },
@@ -3810,6 +3888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-20 17:10:24 +0000"
@@ -3819,6 +3903,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_sign_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-05-20 17:19:26 +0000"
     },
     "done": true
   },
@@ -3882,6 +3972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-20 17:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-05-20 17:01:20 +0000"
@@ -3903,6 +3999,12 @@
   "biomancy:recipes/biomancy/decomposing/pointed_dripstone": {
     "criteria": {
       "has_pointed_dripstone": "2025-05-20 17:09:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:19:27 +0000"
     },
     "done": true
   },
@@ -3990,6 +4092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-20 17:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_planks_from_stripped_birch_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:12:17 +0000"
@@ -4005,6 +4113,12 @@
   "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:19:27 +0000"
     },
     "done": true
   },
@@ -4068,6 +4182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/add_to_candle/add_to_candle/acacia_planks_add_to_candle": {
     "criteria": {
       "has_candle": "2025-05-20 17:02:19 +0000"
@@ -4098,9 +4218,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-05-20 17:19:27 +0000"
     },
     "done": true
   },
@@ -4125,6 +4263,12 @@
   "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-05-20 17:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:19:27 +0000"
     },
     "done": true
   },
@@ -4224,6 +4368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-20 17:19:51 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/efficiency_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
@@ -4272,6 +4422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/projectile_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
@@ -4290,9 +4446,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-20 17:19:51 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/fire_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:19:27 +0000"
     },
     "done": true
   },
@@ -4344,6 +4512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweeping_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
@@ -4368,6 +4542,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-20 17:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-20 17:19:51 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/ocelot": {
     "criteria": {
       "has_cod": "2025-05-20 17:01:19 +0000"
@@ -4383,6 +4569,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:19:27 +0000"
     },
     "done": true
   },
@@ -4404,9 +4596,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/depth_strider_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-20 17:19:27 +0000"
     },
     "done": true
   },
@@ -4422,9 +4626,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-20 17:19:27 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-05-20 17:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-20 17:19:51 +0000"
     },
     "done": true
   },
@@ -4512,6 +4728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-05-20 17:19:51 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/lure_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-05-20 17:03:40 +0000"
@@ -4566,6 +4788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-20 17:19:26 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-05-20 17:10:24 +0000"
@@ -4593,6 +4821,18 @@
   "minecraft:recipes/add_to_candle/add_to_candle/dark_oak_planks_add_to_candle": {
     "criteria": {
       "has_candle": "2025-05-20 17:02:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-05-20 17:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-05-20 17:19:51 +0000"
     },
     "done": true
   },
@@ -4647,6 +4887,12 @@
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_sign_from_polished_witch_hazel_layered_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 17:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-20 17:19:26 +0000"
     },
     "done": true
   },
