@@ -2565,3 +2565,5 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20May2025 21:15:15.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998, y=73, z=-1012} BlockPos{x=-996, y=71, z=-1009}
 [20May2025 21:15:15.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998, y=73, z=-1012} BlockPos{x=-996, y=71, z=-1009}
 [20May2025 21:15:15.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998, y=73, z=-1012} BlockPos{x=-996, y=71, z=-1009}
+[20May2025 21:20:07.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [Take Aim]
+[20May2025 21:26:50.391] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
