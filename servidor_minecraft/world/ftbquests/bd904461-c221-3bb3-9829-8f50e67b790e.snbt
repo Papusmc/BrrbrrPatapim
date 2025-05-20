@@ -4,9 +4,19 @@
 	name: "skaterJC420#bd904461"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		1EC596387366A9F0: 1
+	}
+	started: {
+		2DEF08221C404D3A: 1747702385581L
+		1EC596387366A9F0: 1747702385581L
+		0000000000000001: 1747702385581L
+		58F71A97BDC71DDA: 1747702385581L
+	}
+	completed: {
+		2DEF08221C404D3A: 1747702385588L
+		1EC596387366A9F0: 1747702385588L
+	}
 	claimed_rewards: { }
 	player_data: { }
 }
