@@ -1,0 +1,17 @@
+{
+	id: "ed1a11c3-0386-3eef-afeb-ec22cadb65e3"
+	type: "player"
+	player_name: "William_Aftom"
+	ranks: {
+		ed1a11c3-0386-3eef-afeb-ec22cadb65e3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "William_Aftom"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
