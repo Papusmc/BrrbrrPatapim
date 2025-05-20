@@ -515,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-20 00:18:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-05-20 00:03:01 +0000"
@@ -572,6 +578,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-05-19 23:52:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-20 00:18:13 +0000"
     },
     "done": true
   },
@@ -1115,6 +1127,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/forge_bones": {
+    "criteria": {
+      "has_bones": "2025-05-20 00:17:17 +0000"
+    },
+    "done": true
+  },
   "biomancy:biomancy/raw_meat_collection": {
     "criteria": {
       "has_raw_mutton": "2025-05-19 23:54:31 +0000"
@@ -1256,6 +1274,18 @@
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-05-20 00:03:01 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/cobweb": {
+    "criteria": {
+      "has_string": "2025-05-20 00:18:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-05-20 00:18:13 +0000"
     },
     "done": true
   },
@@ -1475,6 +1505,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/bone_rod": {
+    "criteria": {
+      "has_item": "2025-05-20 00:17:17 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-05-19 23:56:17 +0000"
@@ -1490,6 +1526,12 @@
   "teraphobia:demonomicon": {
     "criteria": {
       "used_item": "2025-05-20 00:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-20 00:19:30 +0000"
     },
     "done": true
   },
@@ -1625,6 +1667,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-20 00:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-20 00:03:01 +0000"
@@ -1703,6 +1751,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2025-05-20 00:17:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-05-20 00:03:01 +0000"
@@ -1712,6 +1766,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2025-05-20 00:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-20 00:18:13 +0000"
     },
     "done": true
   },
@@ -1820,6 +1880,18 @@
   "betterend:recipes/redstone/helix_tree_gate": {
     "criteria": {
       "has_stick": "2025-05-19 23:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-20 00:17:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-05-20 00:18:13 +0000"
     },
     "done": true
   },
@@ -1967,6 +2039,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/forge_string": {
+    "criteria": {
+      "has_string": "2025-05-20 00:18:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-05-20 00:00:29 +0000"
@@ -2108,6 +2186,12 @@
   "fantasyfurniture:recipes/misc/furniture_station": {
     "criteria": {
       "has_crafting_table": "2025-05-19 23:52:47 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/string": {
+    "criteria": {
+      "has_string": "2025-05-20 00:18:13 +0000"
     },
     "done": true
   },
@@ -2297,6 +2381,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-05-20 00:17:17 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2025-05-20 00:03:01 +0000"
@@ -2306,6 +2396,12 @@
   "regions_unexplored:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-19 23:56:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-05-20 00:17:17 +0000"
     },
     "done": true
   },
@@ -2408,6 +2504,12 @@
   "betterend:recipes/redstone/dragon_tree_gate": {
     "criteria": {
       "has_stick": "2025-05-19 23:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-20 00:18:13 +0000"
     },
     "done": true
   },
@@ -2554,7 +2656,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-05-20 00:01:19 +0000"
+      "cooked_mutton": "2025-05-20 00:01:19 +0000",
+      "apple": "2025-05-20 00:17:16 +0000"
     },
     "done": false
   },
@@ -2609,6 +2712,12 @@
   "betterend:recipes/decorations/tenanea_ladder": {
     "criteria": {
       "has_stick": "2025-05-19 23:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-20 00:18:13 +0000"
     },
     "done": true
   },
@@ -2711,6 +2820,12 @@
   "betterend:recipes/decorations/dragon_tree_chair": {
     "criteria": {
       "has_stick": "2025-05-19 23:51:56 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2025-05-20 00:14:11 +0000"
     },
     "done": true
   },
