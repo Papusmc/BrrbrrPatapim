@@ -2567,3 +2567,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [20May2025 21:15:15.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998, y=73, z=-1012} BlockPos{x=-996, y=71, z=-1009}
 [20May2025 21:20:07.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [Take Aim]
 [20May2025 21:26:50.391] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity boh:deer but it was marked as removed already
+[20May2025 21:36:57.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: skaterJC420 lost connection: Disconnected
+[20May2025 21:36:57.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 left the game
+[20May2025 21:36:57.652] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for bd904461-c221-3bb3-9829-8f50e67b790e
+[20May2025 21:36:57.652] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client skaterJC420

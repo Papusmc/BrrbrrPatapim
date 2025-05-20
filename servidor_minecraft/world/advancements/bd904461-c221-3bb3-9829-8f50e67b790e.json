@@ -6026,6 +6026,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/gravel": {
+    "criteria": {
+      "has_gravel": "2025-05-20 21:31:02 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/soul_jack_o_lantern": {
     "criteria": {
       "has_item": "2025-05-20 20:43:02 +0000"
@@ -6035,6 +6041,12 @@
   "regions_unexplored:recipes/decorations/spruce_shrub": {
     "criteria": {
       "has_spruce_sapling": "2025-05-20 20:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-05-20 21:31:40 +0000"
     },
     "done": true
   },
@@ -6071,6 +6083,12 @@
   "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
     "criteria": {
       "has_white_trillium": "2025-05-20 21:14:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-20 21:31:02 +0000"
     },
     "done": true
   },
@@ -6152,6 +6170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-20 21:31:02 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
     "criteria": {
       "has_item": "2025-05-20 20:43:02 +0000"
@@ -6182,6 +6206,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/emerald": {
+    "criteria": {
+      "has_emerald": "2025-05-20 21:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-20 21:34:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-05-20 20:42:59 +0000"
@@ -6200,9 +6236,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-05-20 21:34:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/stripped_spruce_log_from_spruce_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-20 20:40:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-20 21:31:02 +0000"
     },
     "done": true
   },
@@ -6230,9 +6278,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/goat_horn": {
+    "criteria": {
+      "has_goat_horn": "2025-05-20 21:31:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-20 20:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-20 21:31:40 +0000"
     },
     "done": true
   },
