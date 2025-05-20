@@ -1,2 +1,5 @@
 [20May2025 00:01:18.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has reached the goal [The Demonomicon]
 [20May2025 00:03:01.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [Acquire Hardware]
+[20May2025 00:05:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [Monster Hunter]
+[20May2025 00:05:28.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skaterJC420 has made the advancement [Not Today, Thank You]
+[20May2025 00:09:53.156] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1517, y=82, z=743}
